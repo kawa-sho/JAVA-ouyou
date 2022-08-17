@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
-public class Sample {
+public class Sample01 {
 	public static void main(String[] args) {
 
 		// ArrayListを生成する場合
