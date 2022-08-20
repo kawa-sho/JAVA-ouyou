@@ -16,4 +16,5 @@ class Apple extends Fruit {
   protected BigDecimal getPrice() {
     return price;
   }
+
 }
